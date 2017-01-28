@@ -1,2 +1,2 @@
-# vimrc
-This is the .vimrc file that I'm currently using. 
+# dotvim
+This contains all the vim files that I'm currently working with.
